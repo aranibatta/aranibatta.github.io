@@ -1,17 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+---
+layout: default
+---
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<font face="futura" color="green">This is some text!</font>
-	
-	
-<script src="https://use.typekit.net/ciw4mya.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<div class="home">
 
-</body>
-</html>
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
