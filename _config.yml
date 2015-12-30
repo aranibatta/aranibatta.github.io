@@ -16,6 +16,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aranibatta.github.io" # the base hostname & protocol for your site
 twitter_username: aranibatta
 github_username:  aranibatta
+facebook_username:
+medium_username:
 safe:        true
 lsi:         false
 highlighter: pygments
