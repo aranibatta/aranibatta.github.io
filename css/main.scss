@@ -12,6 +12,14 @@ $base-font-weight: 500;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
+$text-font-family: 'Open Sans', sans-serif;
+$text-font-size:   24px;
+$text-font-weight: 400;
+$text-font-size-other:  $base-font-size * 0.875;
+$text-line-height: 1.5;
+
+$spacing-unt-text: 15ppx;
+
 $spacing-unit:     26.4px;
 
 $text-color:       #111; //all other text
@@ -19,7 +27,7 @@ $background-color: #Fdfdfd; //background
 $brand-color:      #FDBD00; //highlights
 
 $grey-color:       #3E82F7; //dates and general
-$grey-color-light:  #2DA54F;
+$grey-color-light:  #3E82F7;
 $grey-color-dark2: #2DA54F; // my name and top swithc
 $grey-color-dark:  #3E82F7; //borderline colors switch
 
