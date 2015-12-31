@@ -14,13 +14,13 @@ $base-line-height: 1.5;
 
 $spacing-unit:     26.4px;
 
-$text-color:       #111;
-$background-color: #3E82F7;
-$brand-color:      #FDBD00;
+$text-color:       #111; //all other text
+$background-color: #Fdfdfd; //background
+$brand-color:      #FDBD00; //highlights
 
-$grey-color:       #2DA54F;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color:       #2DA54F; //dates and general
+$grey-color-light: #2DA54F; // my name and top swithc
+$grey-color-dark:  #3E82F7; //borderline colors switch
 
 // Width of the content area
 $content-width:    800px;
