@@ -4,10 +4,8 @@ title: thoughts
 permalink: /thoughts/
 ---
 
-
+these are some ideas that I felt like sharing but weren't really cohesive enough to make concise points. if i do ever come to writing a full piece, they'll have found their foundatons here and posted on [medium.](https://www.medium.com/@aranibatta)
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
