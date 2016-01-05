@@ -2,11 +2,11 @@
   "basics": {
     "name": "arani (ron) bhattacharyay",
     "label": "problem solver",
-    "picture": "",
+    "picture": "_includes/favicon.png",
     "email": "aranibatta@berkeley.edu",
     "phone": "(310) 491-6828",
     "website": "http://arani.io",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Currently a second year studying Electrical Engineering and Computer Science with a minor in Statistics at the University of California, Berkeley. I like the colors of the school's I've been too, I'm not a huge fan of complicated UIs, and I heart random stats. In my free time I enjoy fiddling with guitars, cooking poorly, pretending to work out, reading fivethirtyeight, performing some stand-up on the side, blowing money at music festivals, and laughing at horrendously written television (think White Collar).",
     "location": {
       "address": "1930 Vine St",
       "postalCode": "CA 94709",
@@ -37,6 +37,27 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of California, Berkeley",
+      "area": "Elecstrical Engineering and Computer Science, Statistics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2014-08-27",
+      "endDate": "2018-05-15",
+      "courses": [
+        "CS61A - Structure and Interpretation of Computer Programs",
+        "CS61B - Data Structures",
+		"CS61C - Machine Structures",
+		"CS70 - Discrete Mathematics and Probability",
+		"EE16A - Signals and Systems I (Pilot)",
+		"EE16B - Signals and Systems II (Pilot)",
+		"PHYSICS 7B - Physics for Scientists and Engineers",
+		"RHETORIC 1B - Indexicality in the Image",
+		"HISTORY 162B - War and Peace: International Relations since 1914"
+      ]
+    }
+  ],
+
   "work": [
     {
       "company": "Pied Piper",
@@ -65,20 +86,6 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
-  ],
   "awards": [
     {
       "title": "Digital Compression Pioneer Award",
@@ -87,32 +94,36 @@
       "summary": "There is no spoon."
     }
   ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Proficient",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Python",
+        "Java",
+        "C",
+		"Git",
+		"MongoDB",
+		"SQL",
+		"HTML",
+		"Ruby (on Rails)",
+		"AWS",
+		"Elasticsearch",
+		"Logstash",
+		"Kibana"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Familiar",
+      "level": "OK",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Heroku",
+        "PHP",
+        "CSS",
+		"Swift",
+		"Flask",
+		"Node.js",
+		"Meteor.js"
       ]
     }
   ],
@@ -120,6 +131,18 @@
     {
       "language": "English",
       "fluency": "Native speaker"
+    },
+	{
+      "language": "Bengali",
+      "fluency": "Native speaker"
+    },
+	{
+      "language": "Spanish",
+      "fluency": "Working Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Limited Proficiency"
     }
   ],
   "interests": [
