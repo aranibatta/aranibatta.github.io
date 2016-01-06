@@ -356,12 +356,12 @@
       ]
     },
 	{
-		"name": "Comedy",
-		'keywords': [
-			"stand-up",
-			"video shorts",
-			"satirical essays"
-		]
+	  "name": "Comedy",
+	  'keywords': [
+   		"stand-up",
+		"video shorts",
+		"satirical essays"
+	   ]
 	}
   ]
 }
