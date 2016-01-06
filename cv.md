@@ -363,7 +363,7 @@ permalink: /fullcv/
     },
 	{
 	  "name": "Comedy",
-	  'keywords': [
+	  "keywords": [
    		"stand-up",
 		"video shorts",
 		"satirical essays"
