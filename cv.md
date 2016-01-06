@@ -3,6 +3,8 @@ layout: default
 permalink: /fullcv/
 ---
 
+Here's my cv in all it's natural glory. I'll eventually put up a more visually appealing form, but for now, this easy-to-scrape version shall do.
+
 {% highlight json %}
 {
   "basics": {
