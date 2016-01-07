@@ -14,7 +14,7 @@ these are some ideas that I felt like sharing but weren't really cohesive enough
 
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		  <a href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
+		  <a class="post-link" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
         </h2>
       </li>
     {% endfor %}
