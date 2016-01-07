@@ -11,7 +11,7 @@ these are some ideas that I felt like sharing but weren't really cohesive enough
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-	    <font size=".001"><a class="post-link" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a></font>
+	    <span class="post-meta"><a class="post-link" href="{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a></span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
