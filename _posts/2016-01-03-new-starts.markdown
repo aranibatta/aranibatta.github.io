@@ -7,11 +7,13 @@ tags: ja_feel first codeFun
 ---
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I've always figured that the entire concept of a "new year" was intrinsically flawed. Outside of the arbitrary numerification of time, there really isn't any cosmic change to the reality we exist in. Even then, it's a standard concept which is diversely celebrated in as many various forms as there are people. Hal Borland put the aforementioned sentiment much more relatably as a 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+>Year's end is neither an end nor a beginning but a going on, with all the wisdom that experience can instill in us.
 
-Jekyll also offers powerful support for code snippets:
+
+
+For the end of this beginning, here's some fun with Python 2.7:
 
 {% highlight python %}
 #Kudos to Ben Kurtovic
@@ -53,14 +55,9 @@ Jekyll also offers powerful support for code snippets:
 
 03   
 9102 ob s,ʇǝן   
-¡s,ɹɐǝʎ ʍǝu ʎddɐɥ   
+¡ɹɐǝʎ ʍǝu ʎddɐɥ   
 :spɐǝɹ ʇı
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
 
 
 
