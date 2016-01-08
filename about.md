@@ -22,7 +22,7 @@ Around 1999, the Bhattacharyays began moving to the United States as dad decided
 
 ![nhsmun]({{ site.url }}/assets/nhsmun.png)
 
-So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-markets-dow-china/). I might feel compelled to update it, I as likeley will not. Yes, I repeatedly change the pronouns and the perspective of the writer. Deal with it.
+So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-markets-dow-china/). I might feel compelled to update it, I as likeley will not. Yes, I repeatedly change the pronouns and the perspective of the writer. Stop being my english teacher and deal with it. (I love you Mr. Zeoli)
 
 #Likings
 
@@ -30,3 +30,24 @@ So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-mark
 
 
 ![outsidelands]({{ site.url }}/assets/outside.png)
+
+So I leave you with this picture of an air guitar playing bear in front of a much cooler guitar playing bear.
+
+Enjoi.
+
+<script> 
+var disqus_config = function () {
+this.page.url = '{{ site.url }}{{ page.url }}';
+this.page.identifier = '{{ page.id }}';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//arani.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
