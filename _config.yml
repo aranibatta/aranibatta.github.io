@@ -10,7 +10,7 @@ title: arani (ron bhatta)charyay
 name: arani bhattacharyay
 email: arani@arani.io
 description:  # this means to ignore newlines until "baseurl:"
-  personal homepage of ron bhatta, or arani, whichever you want. you are here to laugh at my bio, stalk my professional history, or fall asleep to some of my musings. &copy Arani Bhattacharyay 2016
+  personal homepage of ron bhatta, or arani, whichever you want. you are here to laugh at my bio, stalk my professional history, or fall asleep to some of my musings. &copy 2016 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://aranibatta.github.io" # the base hostname & protocol for your site
 twitter_username: aranibatta
