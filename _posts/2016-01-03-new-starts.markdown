@@ -15,7 +15,7 @@ I've always figured that the entire concept of a "new year" was intrinsically fl
 
 For the end of this beginning, here's some fun with Python 2.7:
 
-{% highlight python %}
+{% highlight python linenos%}
 #Kudos to Ben Kurtovic
 (lambda _, __, ___, ____, _____, ______, _______, ________:
     getattr(
