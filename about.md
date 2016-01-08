@@ -56,7 +56,7 @@ I have fairly strong beliefs about startups. The current economic model for fund
 
 I have no strict beliefs in terms of politics, but I'm told I lean a bit left. I like having conversations about world events and politics, but constructive ones based in facts and not opiniative arguments. Those are really hard to find.
 
-It's commonly understood amongst people who known me, and that shows in my music tastes. I'm currently obsessed with Father John Misty and George Ezra. I'm also inclined towards Billy Joel, Louis Armstrong, The Beatles, Queen, Mumford and Sons, G-Eazy, Graduation by Kanye West, The Smiths, Big Star, Otis Redding, Passenger, Passion Pit, and a bit of country. I love listening to new music too!
+It's commonly understood that I'm an old soul amongst people who known me, and that shows in my music tastes. I'm currently obsessed with Father John Misty and George Ezra. I'm also inclined towards Billy Joel, Louis Armstrong, The Beatles, Queen, Mumford and Sons, G-Eazy, Graduation by Kanye West, The Smiths, Big Star, Otis Redding, Passenger, Passion Pit, and a bit of country. I love listening to new music too!
 
 That's what I like, and if you feel me at all, let me know! I like it when people reach out. So reach out, and I'll always respond!
 
