@@ -14,5 +14,19 @@ Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 199
 
 ![lil arani circa 2001]({{ site.url }}/assets/IMG_0533.png)
 
-Around 1999, the Bhattacharyays began moving to the United Stats as dad decided to get an MBA out of UC Irvine, but the events of 2001 on the personal and global scale prevented permanent relocation until December of that year. At this point
+Around 1999, the Bhattacharyays began moving to the United States as dad decided to get an MBA out of UC Irvine, but the events of 2001 on the personal and global scale prevented permanent relocation until December of that year. At this point, we'd moved to the sou
 
+![laimun 2012]({{ site.url }}/assets/mun.png)
+
+![bcr]({{ site.url }}/assets/bcr.png)
+
+![nhsmun]({{ site.url }}/assets/nhsmun.png)
+
+So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-markets-dow-china/). I might feel compelled to update it, I as likeley will not. Yes, I repeatedly change the pronouns and the perspective of the writer. Deal with it.
+
+#Likings
+
+
+
+
+![outsidelands]({{ site.url }}/assets/outside.png)

@@ -7,7 +7,7 @@ tags: ja_feel firsts codeFun
 ---
 
 
-I've always figured that the entire concept of a "new year" was intrinsically flawed. Outside of the arbitrary numerification of time, there really isn't any cosmic change to the reality we exist in. Even then, it's a standard concept which is diversely celebrated in as many various forms as there are people. Hal Borland put the aforementioned sentiment much more relatably as a 
+I've always figured that the entire idea of a "new year" was intrinsically flawed. Outside of the arbitrary numerification of time, there really isn't any cosmic change to the reality we exist in. Even then, it's a standard concept which is diversely celebrated in as many various forms as there are people. Hal Borland put the aforementioned sentiment much more relatably as a 
 
 
 >Year's end is neither an end nor a beginning but a going on, with all the wisdom that experience can instill in us.
