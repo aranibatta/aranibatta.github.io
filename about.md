@@ -10,7 +10,7 @@ I hate talking about myself, but I hate others speaking incorrectly of me more. 
 
 #Past
 
-Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 1996, but Ron would later mold into existence. (Ha, you thought they'd give you THAT much personal info) They were born to Dhruba Bhattacharyay, a Civil Engineer and Project Manager who'd finished his graduate studies at [The Univeristy of Tokyo](http://www.u-tokyo.ac.jp/en/index.html) and Saswati Basu (she'd already wrapped up a masters in Political Science from [Calcutta University Lady Brabourne](http://www.ladybrabourne.com/)). Dhruba worked for Taisei at the time, so he and his family hopped around living in various Southeast Asian states for a few years. Somewhere in between, Arani got a brother his parents dubbed [Shubhayu](https://www.facebook.com/shubhayu.bhattacharyay).
+Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 1996, but Ron would mold into existence later . (Ha, you thought they'd give you THAT much personal info) They were born to Dhruba Bhattacharyay, a Civil Engineer and Project Manager who'd finished his graduate studies at [The Univeristy of Tokyo](http://www.u-tokyo.ac.jp/en/index.html) and Saswati Basu (she'd already wrapped up a masters in Political Science from [Calcutta University Lady Brabourne](http://www.ladybrabourne.com/)). Dhruba worked for Taisei at the time, so he and his family hopped around living in various Southeast Asian states for a few years. Somewhere in between, Arani got a brother his parents dubbed [Shubhayu](https://www.facebook.com/shubhayu.bhattacharyay).
 
 ![lil arani circa 2001]({{ site.url }}/assets/IMG_0533.png)
 
@@ -18,16 +18,18 @@ Around 1999, the Bhattacharyays began moving to the United States as dad decided
 
 Arani's story gets a tad more interesting as he moved on to middle school. Where most find social struggles and
 
-Many of those interests carried on as he moved on to Mira Costa High School. His involvement in the FIRST Lego League translated over to joining the local FIRST Robotics Team 294. 294 had just come off a world-championship winning season, so least to say the four years in terms of performance were a little dissapointing, but most would'nt complaing about three regional finalists and a regional win. The robotics team became one of Arani's more significant social cirlces, and the first serious experience in such a high intensity environment. 
-
 ![laimun 2012]({{ site.url }}/assets/bcr.png)
 
-After taking a 
+
+Many of those interests carried on as he moved on to Mira Costa High School. His involvement in the FIRST Lego League translated over to joining the local FIRST Robotics Team 294. 294 had just come off a world-championship winning season, so least to say the four years in terms of performance were a little dissapointing, but most would'nt complaing about three regional finalists and a regional win. The robotics team became one of Arani's more significant social cirlces, and the first serious experience in such a high intensity environment. 
+
+
+After taking a semester class as an introduction to Model UN, Arani auditioned and joined the nationally ranked (consistently #1 or #2) Mira Costa Model United Nations program. 
 
 ![laimun 2012]({{ site.url }}/assets/mun.png)
 
 
-![laimun 2012]({{ site.url }}/assets/ron_bhatta.png)
+![laimun 2012]({{ site.url }}/assets/ron_bhatta.png) This is an interesing experiment.
 
 
 ![nhsmun]({{ site.url }}/assets/nhsmun.png)
