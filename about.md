@@ -14,11 +14,21 @@ Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 199
 
 ![lil arani circa 2001]({{ site.url }}/assets/IMG_0533.png)
 
-Around 1999, the Bhattacharyays began moving to the United States as dad decided to get an MBA out of UC Irvine, but the events of 2001 on the personal and global scale prevented permanent relocation until December of that year. At this point, we'd moved to the sou
+Around 1999, the Bhattacharyays began moving to the United States as dad decided to get an MBA out of UC Irvine, but the events of 2001 on the personal and global scale prevented permanent relocation until December of that year. At this point, we'd moved to the South Bay in Los Angeles, where I'd pretty much spend the rest of my childhood. Arani's elementary years were quite uneventful. Imagine a chubby little indian tyke that by all acounts was soft at heart but annoying. This kid was also a fairly average student, an avid reader, and for around two years (You'd be surprised which two) convinced he was a squirrel. 
+
+Arani's story gets a tad more interesting as he moved on to middle school. Where most find social struggles and
+
+Many of those interests carried on as he moved on to Mira Costa High School. His involvement in the FIRST Lego League translated over to joining the local FIRST Robotics Team 294. 294 had just come off a world-championship winning season, so least to say the four years in terms of performance were a little dissapointing, but most would'nt complaing about three regional finalists and a regional win. The robotics team became one of Arani's more significant social cirlces, and the first serious experience in such a high intensity environment. 
+
+![laimun 2012]({{ site.url }}/assets/bcr.png)
+
+After taking a 
 
 ![laimun 2012]({{ site.url }}/assets/mun.png)
 
-![bcr]({{ site.url }}/assets/bcr.png)
+
+![laimun 2012]({{ site.url }}/assets/ron_bhatta.png)
+
 
 ![nhsmun]({{ site.url }}/assets/nhsmun.png)
 
@@ -34,20 +44,3 @@ So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-mark
 So I leave you with this picture of an air guitar playing bear in front of a much cooler guitar playing bear.
 
 Enjoi.
-
-<script> 
-var disqus_config = function () {
-this.page.url = '{{ site.url }}{{ page.url }}';
-this.page.identifier = '{{ page.id }}';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-
-s.src = '//arani.disqus.com/embed.js';
-
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
