@@ -3,7 +3,7 @@ layout: post
 title:  "What's a New Start?"
 author: Arani Bhattacharyay
 date:   2016-01-03 14:31:55 -0800
-tags: ja_feel first codeFun
+tags: ja_feel firsts codeFun
 ---
 
 
@@ -11,6 +11,13 @@ I've always figured that the entire concept of a "new year" was intrinsically fl
 
 >Year's end is neither an end nor a beginning but a going on, with all the wisdom that experience can instill in us.
 
+This new year's carried an undertone for me that I hadn't experienced as far as I can remember. Every year, on the thirty-first of December, as the clock winds down, I can't help feeling a bit scared and excited. As much as I might be upset over the nuantics, my life has gone fairly well for me. I now understand that as a sense of longing for the times that had just passsed, but fear for what was to come could, probabilistically, not match up to the "year" that had just passed. This time around the circle, all of that felt missing. I'd been through a fair amount the last tweleve months, and I know at some point I'll talk about those experiences here, but in short they took a toll on me. I say this with the full perspective that others have definately seen worse for wear and in my head I've belittled those who share their seemingly lesser anguish, but I think I've come to see that relating those experiences is as much therapeutic for the author as it is consoling for the reader. In whole, I felt no remorse leaving two thousand and fifteen behind, but only hope that things could only get better if I wanted them to.
+
+The key there is I have to want it better. I need an attitude inflection and a cleansing of spirit so to speak. What a better time than now? A time universally understood as a fresh start and an oppurtunity to leave things behind. So I guess I'll buy into the magic of New Year's for once, as sort of a hail mary for survival. As with any good samaritan of these annual festivities, I've decided to hold myself to benchmarks that I believe have the potential to improve me. I go in pursuit of fulfulling them, but with the expectation I'll find peace in the quest rather than the achievement.
+
+You could call this "blog" one of those pursuits. I had a few fairly interesting things to write about, and hopefully more will follow. I write these in the hope that I find some comfort in the consolation of my thoughts, and if someone else does too, that's pretty awesome. This beginning, more likeley than not to lead nowhere, is exciting because I don't know where I'll find my self afterwards. 
+
+Enjoi.
 
 
 For the end of this beginning, here's some fun with Python 2.7:
