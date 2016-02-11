@@ -19,7 +19,7 @@ facebook_username:
 medium_username:
 safe:        true
 lsi:         false
-highlighter: pygments
+highlighter: rogue
 # Build settings
 markdown: kramdown
 webrick:
