@@ -8,7 +8,8 @@ If you met me before June of 2014, you probably know me as Arani Bhattacharyay. 
 
 I hate talking about myself, but I hate others speaking incorrectly of me more. So this shall be my feeble attempt to lay out my own history, who I am, and what I like before someone beats me to it. Public perception of me is for you to judge. I'll also try and include some more embarrasing photographs of myself for entertainment value. Let's get started!
 
-#Past
+Past
+------
 
 Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 1996, but Ron would mold into existence later . (Ha, you thought they'd give you THAT much personal info) They were born to Dhruba Bhattacharyay, a Civil Engineer and Project Manager who'd finished his graduate studies at [The Univeristy of Tokyo](http://www.u-tokyo.ac.jp/en/index.html) and Saswati Basu (she'd already wrapped up a masters in Political Science from [Calcutta University Lady Brabourne](http://www.ladybrabourne.com/)). Dhruba worked for Taisei at the time, so he and his family hopped around living in various Southeast Asian states for a few years. Somewhere in between, Arani got a brother his parents dubbed [Shubhayu](https://www.facebook.com/shubhayu.bhattacharyay).
 
@@ -46,7 +47,8 @@ I like attending Hackathons. I've met some amazing people through them (includin
 
 So that's me up to [today](http://money.cnn.com/2016/01/07/investing/stocks-markets-dow-china/). I might feel compelled to update it, I as likeley will not. Yes, I repeatedly change the pronouns and the perspective of the writer. Stop being my english teacher and deal with it. (I love you Mr. Zeoli)
 
-#Likings
+Likings
+------
 
 Ron likes quite a many things. First and foremost, his sports fandom lies loyal to the California Golden Bears (Go Bears!). At the professional level, I'm loyal to Los Angeles. Go Clippers, Dodgers, and Kings! For some reason, I do like some Boston teams, but especially die hard for the Patriots! I'll give the Lakers, Red Sox, and Raiders a nod too. I love to catch games when given a chance.
 

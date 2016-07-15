@@ -27,7 +27,7 @@ Enjoi.
 
 For the end of this beginning, here's some fun with Python 2.7:
 
-{% highlight python linenos%}
+{% highlight python %}
 #Kudos to Ben Kurtovic
 (lambda _, __, ___, ____, _____, ______, _______, ________:
     getattr(
