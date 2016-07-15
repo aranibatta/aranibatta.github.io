@@ -16,16 +16,4 @@ So why aren’t people looking at the government to change what can be easily be
 
 Then it’s fairly clear that there’s a problem. That problem isn’t that the vast majority of our country is completely uninvolved from our political system. It isn’t that purchasing power has been so polarized our current retail economy (even at a corporate level) has become unattainable for the vast majority of American businesses. It isn’t that almost half our country as of right now has no access to what we as Americans consider basic citizen rights. The most apparent problem is that as aware people are slowly becoming, they feel there is nothing they can do about it. As goes with addiction, the first step is recognizing there is a problem, but the second is acknowledging that approaching the issue is something that needs to be done. Americans live under a government that they no longer believe in, work for people who they blame for having reduced their potential and robbed them of accessibility, and then go on to owe similar or often time worse people for the rest of their lives. It’s also easy to see why people feel the way they do. Yet, the reality is Americans can make major, but hard, changes that not only empower them to redirect the dynamic in their favor, but re-value their worth in our socio-economic and political system. It requires Americans to recognize they are addicted. Addicted to hoarding undervalued goods that will only come back to reduce their status in that same market. Addicted to consuming dangerous financial products that only increase the wealth of the already rich by preying on the dreams of those who happen to have less than them. Addicted to leaving political decision to those who don’t care for them, pleading ignorance in the face of disaster, and refusing to go beyond blaming those who they believed have wronged them. The reality is that the system isn’t broken, it’ll just break if we let it. Americans can achieve this “Balanced Inequality” the country as a whole can agree on, only if they choose to take the action to cut that addiction.
 
-CITATIONS
-
-
-Graham, P. A. (2016). [Economic Inequality](http://www.paulgraham.com/ineq.html).  Retrieved February 05, 2016
-
-Brooks, A. C. (2014). [The Downside of Inciting Envy](http://www.nytimes.com/2014/03/02/opinion/sunday/the-downside-of-inciting-envy.html). Retrieved February 05, 2016
-
-Greenhouse, S. (2010). [In Indiana, Centerpiece for a City Closes Shop](http://www.nytimes.com/2010/06/20/us/20whirlpool.html ). Retrieved February 05, 2016
-
-Soper. (2011). [Inside Amazon's Warehouse](http://www.mcall.com/news/local/amazon/). Retrieved February 05, 2016 
-
-Reich, R. B. (2008). Supercapitalism: The battle for democracy in an age of big business. Thriplow: Icon. 
 
