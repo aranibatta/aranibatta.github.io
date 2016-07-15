@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Balanced Inequality: A Guide to American Capitalism (blurb)"
+title:  "Balanced Inequalitys"
 author: Arani Bhattacharyay
 date:   2016-02-05 13:31:55 -0800
 tags: econ public_policy 
