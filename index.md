@@ -4,6 +4,7 @@ permalink: /
 ---
 
 Hi, I'm Arani Bhattacharyay.
+____________________________
 
 
 I'm currently a second year studying Electrical Engineering and Computer Science with a minor in Statistics at the University of California, Berkeley. I like the colors of the school's I've been too, I'm not a huge fan of [complicated UIs](http://motherfuckingwebsite.com/), and I heart random stats. I teach and run workshops for [Hackers @ Berkeley](http://hackersatberkeley.com/). I'm in charge of ops for [Build Berkeley](http://buildberkeley.com/), Berkeley's new social good hackathon in the spring. I'm also an undergraduate researcher in [Laurent El Ghaoui's](http://www.eecs.berkeley.edu/~elghaoui/) machine learning group, [StatNews](http://statnews.org/).
