@@ -17,16 +17,18 @@ layout: compress
   </header>
 
   {{ content }}
-<div class="links">
-    <a href="/about/">About</a>
-    <a href="/contact/">Contact</a>
-</div>
     
-<div class="theme" onclick="theme()" style="background-image: url({{site.baseurl}}/images/theme.svg);"></div>
-
-
+    
 
 {% include analytics.html %}
 <script src="{{site.baseurl}}/js/theme.min.js"></script>
 </body>
+
+<footer>
+    <div class="links">
+    <a href="/about/">About</a>
+</div>
+    
+<div class="theme" onclick="theme()" style="background-image: url({{site.baseurl}}/images/theme.svg);"></div>
+</footer>
 </html>
