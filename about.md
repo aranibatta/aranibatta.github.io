@@ -1,7 +1,8 @@
+
 ---
-title: About Hagura
-layout: post
-date: 2016-11-02
+layout: default
+title: about
+permalink: /about/
 ---
 
 
