@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: thoughts
 permalink: /thoughts/
 ---
