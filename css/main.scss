@@ -1,39 +1,27 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
-
-
-// Our variables
-$base-font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+$base-font-family: 'Work Sans', sans-serif;
 $base-font-size:   20px;
-$base-font-weight: 300;
-$small-font-size:  $base-font-size * 0.750;
-$base-line-height: 1.5;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.7;
 
-$text-font-family: 'Open Sans', sans-serif;
-$text-font-size:   24px;
-$text-font-weight: 400;
-$text-font-size-other:  $base-font-size * 0.875;
-$text-line-height: 1.5;
+$spacing-unit:     30px;
 
-$spacing-unt-text: 15ppx;
+$text-color:       #333;
+$background-color: #fdfdfd;
+$brand-color:      #60c17d;
 
-$spacing-unit:     26.4px;
-
-$text-color:       #111; //all other text
-$background-color: #Fdfdfd; //background
-$brand-color:      #FDBD00; //highlights
-
-$grey-color:       #2DA54F; //dates and general
-$grey-color-light:  #3E82F7;
-$grey-color-dark2: #2DA54F; // my name and top swithc
-$grey-color-dark:  #3E82F7; //borderline colors switch
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
-
 $on-palm:          600px;
 $on-laptop:        800px;
 
@@ -56,7 +44,5 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
+        "style"
 ;

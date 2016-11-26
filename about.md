@@ -11,7 +11,7 @@ Past
 
 Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 1996, but Ron would mold into existence later . (Ha, you thought they'd give you THAT much personal info) They were born to Dhruba Bhattacharyay, a Civil Engineer and Project Manager who'd finished his graduate studies at [The Univeristy of Tokyo](http://www.u-tokyo.ac.jp/en/index.html) and Saswati Basu (she'd already wrapped up a masters in Political Science from [Calcutta University Lady Brabourne](http://www.ladybrabourne.com/)). Dhruba worked for Taisei at the time, so he and his family hopped around living in various Southeast Asian states for a few years. Somewhere in between, Arani got a brother his parents dubbed [Shubhayu](https://www.facebook.com/shubhayu.bhattacharyay).
 
-![lil arani circa 2001]({{ site.url }}/assets/IMG_0533.png)
+![lil arani circa 2001]({{ site.url }}/images/IMG_0533.png)
 
 Around 1999, the Bhattacharyays began moving to the United States as dad decided to get an MBA out of UC Irvine, but the events of 2001 on the personal and global scale prevented permanent relocation until December of that year. At this point, we'd moved to the South Bay in Los Angeles, where I'd pretty much spend the rest of my childhood. Arani's elementary years were quite uneventful. Imagine a chubby little indian tyke that by all acounts was soft at heart but annoying. This kid was also a fairly average student, an avid reader, and for around two years (you'd be surprised which two) convinced he was a squirrel. Arani went to Mira Costa High School, one of the more impenetrable bubbles in California.
 
@@ -19,7 +19,7 @@ Ron elected to take the Regent's and Chancellor's Scholarship at the University 
 
 I also kept involved with Model United Nations on the staff of IMUNA's National High School Model United Nations (NHSMUN). It was the largest High School MUN conference to date, and put on completely my college students. I was an Assistant Director on the Administraive Affairs team, which handled much of the background business in running the conference successfully. It was the craziest week of my life.
 
-![nhsmun]({{ site.url }}/assets/nhsmun.png)
+![nhsmun]({{ site.url }}/images/nhsmun.png)
 
 I like attending Hackathons. I've met some amazing people through them (including a current roommate!), and excited to meet more. My favorites so far have been PennApps, Calhacks, and MHacks, but I'm trying to attend smaller venues in the future! My current professional interests lie in Product Management, Machine Learning, Data Analytics, and Statistics. I'll take a good stand-up gig if I can get it. 
 
@@ -41,7 +41,7 @@ It's commonly understood that I'm an old soul amongst people who known me, and t
 That's what I like, and if you feel me at all, let me know! I like it when people reach out. So reach out, and I'll always respond!
 
 
-![outsidelands]({{ site.url }}/assets/outside.png)
+![outsidelands]({{ site.url }}/images/outside.png)
 
 I leave you with this picture of an air-guitar playing bear in front of a much cooler guitar playing bear.
 
