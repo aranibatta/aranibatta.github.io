@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
+permalink: /
 ---
-
 
 Hi, I'm Arani Bhattacharyay.
 ------
