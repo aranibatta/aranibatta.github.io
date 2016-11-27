@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /about
 ---
 
 If you met me before June of 2014, you probably know me as Arani Bhattacharyay. If you met me afterwards, I probably introduced myself as Ron Bhatta. If you know me as both, you probably know me fairly well and can skip the following. 
