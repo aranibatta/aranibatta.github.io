@@ -1,12 +1,74 @@
 ---
-layout: page
-title: about
-permalink: /about/
+title: About Hagura
+layout: post
+date: 2016-11-02
 ---
 
-If you met me before June of 2014, you probably know me as Arani Bhattacharyay. If you met me afterwards, I probably introduced myself as Ron Bhatta. If you know me as both, you probably know me fairly well and can skip the following. 
 
-Past
-------
+![sample post]({{site.baseurl}}/images/image-3.png)
 
-Both Arani and Ron were born in Kolkata, West Bengal on the later portion of 1996, but Ron would mold into existence later . (Ha, you thought they'd give you THAT much personal info) They were born to Dhruba Bhattacharyay, a Civil Engineer and Project Manager who'd finished his graduate studies at [The Univeristy of Tokyo](http://www.u-tokyo.ac.jp/en/index.html) and Saswati Basu (she'd already wrapped up a masters in Political Science from [Calcutta University Lady Brabourne](http://www.ladybrabourne.com/)). Dhruba worked for Taisei at the time, so he and his family hopped around living in various Southeast Asian states for a few years. Somewhere in between, Arani got a brother his parents dubbed [Shubhayu](https://www.facebook.com/shubhayu.bhattacharyay).
+![sample post]({{site.baseurl}}/images/image-3.png){: style="width: 100%"}
+
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4
+
+##### Header 5
+
+###### Header 6
+
+
+
+## Paragraphs
+
+These are sample paragraphs showing *italics*, **bold** and ``code`` text style. Here is an unordered  list 
+
+* Item 1
+* Item 2
+* Item 3
+
+and an ordered list
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+>A blockquote would look like this.
+
+> another one 
+>
+> with multiple lines
+
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+A code block would look like this.
+{% highlight html %}
+
+<div class="nav">
+    <ul>
+        <li>About</li>
+        <li>Contact</li>
+        <li>Project</li>
+    </ul>
+</div>
+
+
+{% endhighlight %}
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+
+
+Use below code to show **Table of Contents** on a page
+
+{% highlight css %}
+* Do not remove this line (it will not be displayed) 
+{:toc}
+{% endhighlight %}
