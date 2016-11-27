@@ -1,5 +1,5 @@
 ---
-layout: mainwe
+layout: home
 title: about
 permalink: /about
 ---
