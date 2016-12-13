@@ -7,7 +7,7 @@ function theme() {
          
      }
     else if (data == null || undefined) {
-        sessionStorage.setItem('bg', 'rgb(6, 23, 37)');
+        sessionStorage.setItem('bg', 'rgb(254, 243, 161)');
         sessionStorage.setItem('cc', '#777');
         document.location.reload();
     }
