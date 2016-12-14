@@ -19,7 +19,7 @@ I also kept involved with Model United Nations on the staff of IMUNA's National 
 
 ![nhsmun]({{ site.url }}/images/nhsmun.png)
 
-I like attending Hackathons. I've met some amazing people through them (including a current roommate!), and excited to meet more. My favorites so far have been PennApps, Calhacks, and MHacks, but I'm trying to attend smaller venues in the future! My current professional interests lie in Product Management, Machine Learning, Data Analytics, and Statistics. I'll take a good stand-up gig if I can get it. 
+I like attending Hackathons. I've met some amazing people through them (including a current roommate!), and excited to meet more. My favorites so far have been PennApps, Cal Hacks, and MHacks, but I'm trying to attend smaller venues in the future! My current professional interests lie in Product Management, Machine Learning, Data Analytics, and Statistics. I'll take a good stand-up gig if I can get it. 
 
 So that's me up to [today](http://www.nytimes.com/2016/12/13/us/politics/kanye-trump-tower-visit.html). I might feel compelled to update it, I as likeley will not. Yes, I repeatedly change the pronouns and the perspective of the writer. Stop being my english teacher and deal with it. (I love you Mr. Zeoli)
 
