@@ -12,4 +12,4 @@ Junior studying Electrical Engineering and Computer Science with a minor in Stat
 
 In my free time I enjoy fiddling with guitars, running berries in Killer Queen, cooking poorly, pretending to work out, "reading" [fivethirtyeight](http://fivethirtyeight.com/), performing some stand-up on the side, blowing money at music festivals, and laughing at horrendously written television (think [White Collar](http://www.imdb.com/title/tt1358522/)). Whenever (not so) divine inspiration hits me, I'll blurb out some thoughts on this page, and if they're any good I'l put them on [medium](https://medium.com/@aranibatta). [Reach out](mailto:aranibatta@berkeley.edu) for anything!
 
-#### Kolkata -> Southeast Asia -> LA -> Bayßßß
+#### Kolkata -> Southeast Asia -> LA -> Bay
