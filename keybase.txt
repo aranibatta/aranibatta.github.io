@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/arani
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://arani.io
+  * I am arani (https://keybase.io/arani) on keybase.
+  * I have a public key with fingerprint 8457 C795 4AF5 AFCD 8B98  215B B868 A17F E05A D176
+
+To do so, I am signing this object:
+
+{
+    &quot;body&quot;: {
+        &quot;key&quot;: {
+            &quot;eldest_kid&quot;: &quot;0101b33589e6c02dddc650c37691cd19d906a504a4e5042ce44f48da654dd1db2a5a0a&quot;,
+            &quot;fingerprint&quot;: &quot;8457c7954af5afcd8b98215bb868a17fe05ad176&quot;,
+            &quot;host&quot;: &quot;keybase.io&quot;,
+            &quot;key_id&quot;: &quot;b868a17fe05ad176&quot;,
+            &quot;kid&quot;: &quot;0101b33589e6c02dddc650c37691cd19d906a504a4e5042ce44f48da654dd1db2a5a0a&quot;,
+            &quot;uid&quot;: &quot;0c834f2b3b0679272571e7230025d919&quot;,
+            &quot;username&quot;: &quot;arani&quot;
+        },
+        &quot;service&quot;: {
+            &quot;hostname&quot;: &quot;arani.io&quot;,
+            &quot;protocol&quot;: &quot;http:&quot;
+        },
+        &quot;type&quot;: &quot;web_service_binding&quot;,
+        &quot;version&quot;: 1
+    },
+    &quot;ctime&quot;: 1499992030,
+    &quot;expire_in&quot;: 157680000,
+    &quot;prev&quot;: &quot;611f762fb5c5fc89cc7e8071c031a1b5e5be4aec6b85b68e55f380809f5ae814&quot;,
+    &quot;seqno&quot;: 9,
+    &quot;tag&quot;: &quot;signature&quot;
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.73
+Comment: https://keybase.io/crypto
+
+yMIcAnicrVJZSFVBGL5mml0pIwsKymCwh/JaM+ecOcttIXrQiBaCBCPrMtvxHq6d
+czv3etXUSlS0QqNN2ogioiCF6CmKFsOifYEW6sEWgqAiqIeKkmxOC/TQY//DDPPP
+933z/f/8A2OyQ+GszMv5rTvKThZk3ezfXhtaFS8YbATU4w0g2ggS4ucmarhIpWMJ
+h4MogAgiqqrYtITOoMI5ZzqGTDV0CzGOLG5BnWCoEU3IVWFC02zN5ETHGueIU4Vg
+AgmIANtxq4Wf9B03LWVNDRvMsLBGbExsxk1qmQrClJq6SZBhC4gJR4YuiXEvFTCk
+OUpSYpbjyZw8xH7a+wf+P/uu/SXHTFWzFapSqBuWYijYQMJQVAgVzC1kBcCU8F2y
+Tkg08YnrgOYIkKmMw0TQ1aCMv69/FZL0vbTHvBqZjafTyWhASjckA1SdoLHf/Bh1
+XC77JwkZ4acczwVRJJEs7QSCSLNkKFCFESDqk44vYk6AwIZuQhnBMyIjJXWEbENX
+bIoZtplpMWYIExqIQRURRLHAVGhEMJ2amOqmwNhWTWhCS36SMJEGgorWux6IWtIm
+qZaSKafaJelaX4Dmy5eqRoaywqHcnBHBXIXCo8f9mbb1Q6OGy/f3tlQ1Pc9raLpz
+uUrtzp52YUZ4+1a74tgbtc0ZvfnDjY09Q4NjW1LZo0Q/XHavJwNKHz85t3tO58D0
+LaAm/+Dkfb2DhYu/DjHUPW+lfuhAeX4CaLvzFnwcv7Kid877ivDdb/VHaldMih+G
+nS/65g6c8XuWn9r07MbR85/Wnpm99HZ72/DYbUuv8LXDgzlvy6ruvI6vvtX6KvKo
++82Eor7DhYvGXz0Rmx7tujbFK4OnO7KX1D2IRgq9/OKOYu97Qmw4VRIp2Xe1sXxD
+8/Gid8WVu+7XT3w4ceca2jrzYt2k658TpU57wZfcyrPuw6lNeY/i96y9CxdNyCkp
+ze3veu/teTqr8weEszSa
+=rUKg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/arani
+
+==================================================================
