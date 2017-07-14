@@ -1,5 +1,5 @@
 ---
-title: Ron
+title: 
 layout: home
 ---
 
