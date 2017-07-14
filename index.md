@@ -12,4 +12,7 @@ Currently a dropout, but spent three years studying Electrical Engineering and C
 
 In my free time I enjoy fiddling with guitars, running berries in Killer Queen, cooking poorly, pretending to work out, "reading" [fivethirtyeight](http://fivethirtyeight.com/), performing some stand-up on the side, blowing money at music festivals, and laughing at horrendously written television (think [White Collar](http://www.imdb.com/title/tt1358522/)). Whenever (not so) divine inspiration hits me, I'll blurb out some thoughts on this page, and if they're any good I'l put them on [medium](https://medium.com/@aranibatta). [Reach out](mailto:aranibatta@berkeley.edu) for anything!
 
+
+[B868 A17F E05A D176](https://keybase.io/arani)
+
 #### Kolkata -> Southeast Asia -> LA -> Bay
