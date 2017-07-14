@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Hi, I'm Arani Bhattacharyay.
+Hi, I'm Ron Bhattacharyay.
 ------
 
 Feel free to use this site to learn a bit more [about](http://arani.io/about) me, efficiently scrape my [professional history](https://drive.google.com/file/d/0BzdGCwU1D9LTS0dlaDgtSkw2YVk/view?usp=sharing), or amuse yourself to my [musings](http://deeker.io). 
