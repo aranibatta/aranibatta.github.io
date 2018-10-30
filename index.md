@@ -5,7 +5,7 @@ layout: home
 Hi, I'm arani bhattacharyay.
 ------
 
-Feel free to use this site to learn a bit more [about](http://arani.io/about) me, efficiently scrape my [professional history](https://drive.google.com/file/d/0BzdGCwU1D9LTS0dlaDgtSkw2YVk/view?usp=sharing), or amuse yourself to my [musings](http://blog.bhattacharyay.com). 
+Feel free to use this site to learn a bit more [about](http://arani.io/about) me.
 
 Currently working on a NewCo. Studied Electrical Engineering and Computer Science with a minor in Statistics at the [University of California, Berkeley](http://berkeley.edu). 
 
