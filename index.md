@@ -13,7 +13,7 @@ Formerly lead technical mentor and drive coach of World Champion FRC Team 5499, 
 
 In my free time I enjoy fiddling with guitars, running berries in Killer Queen, cooking poorly, pretending to work out, "reading" [fivethirtyeight](http://fivethirtyeight.com/), performing some stand-up on the side, struggling to choose between 350s and 4s in the morning, and laughing at horrendously written television (think [White Collar](http://www.imdb.com/title/tt1358522/)). 
 
-Whenever (not so) divine inspiration hits me, I'll blurb out some thoughts on this [page](http://blog.bhattacharyay.com), and if they're any good I'll put them on [medium](https://medium.com/@aranibatta). [Reach out](https://keybase.io/arani) if there's a non-zero chance I can be helpful!
+[Reach out](https://t.me/aranibatta) if there's a non-zero chance I can be helpful!
 
 
 
