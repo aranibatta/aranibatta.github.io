@@ -5,7 +5,7 @@ layout: home
 Hi, I'm arani bhattacharyay.
 ------
 
-Use my homepage to learn [about](http://personal.aranibatta.com) me. I'll write stuff, and if it's useful to others it'll go [here](http://pursuitofpostivism.com).
+Use my homepage to learn [about](http://personal.aranibatta.com) me. I'll write stuff, and if it's useful to others it'll go [here](http://pursuitofpositivism.com).
 
 Currently working on a NewCo. Studied Electrical Engineering and Computer Science with a minor in Statistics at the [University of California, Berkeley](http://berkeley.edu). 
 
